@@ -12,3 +12,6 @@ https://towardsdatascience.com/over-100-data-scientist-interview-questions-and-a
 
 Source - https://developers.google.com/machine-learning/crash-course/classification/precision-and-recall
 
+## Q2 What is a decision tree?
+
+
